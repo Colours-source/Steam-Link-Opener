@@ -9,17 +9,17 @@ You can use this extension in Chrome without publishing it to the Web Store. The
 ### 1️⃣ Download the folder
 1. Click the green **Code** button and select **Download ZIP**  
 2. Extract the ZIP and find the folder named `Steam Link Opener`  
-3. Make sure all files (`manifest.json`, `content.js`, `background.js`, `popup.html`, `popup.js`, icons, screenshots, etc.) are inside this folder
+3. Make sure all files (`manifest.json`, `content.js`, `background.js`, `popup.html`, `popup.js`, icons, etc.) are inside this folder
 
 ### 2️⃣ Use the provided ZIP
 - You can also download `Steam Link Opener.zip` directly from this repository  
-- Extract it and use the folder inside for Chrome
+- Extract it and use the folder named `Steam Link Opener` for Chrome
 
 ### 3️⃣ Load the extension in Chrome
 1. Open Chrome and go to `chrome://extensions/`  
 2. Enable **Developer mode** (top right toggle)  
 3. Click **Load unpacked**  
-4. Select the folder containing the extension files
+4. Select the folder named `Steam Link Opener` containing all extension files
 
 ### 4️⃣ Use the extension
 - Click the extension icon in the toolbar to toggle **ON/OFF**  
